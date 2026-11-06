@@ -1,0 +1,7 @@
+.env
+backend/.venv
+backend/scheduler.db
+backend/media/*
+!backend/media/.gitkeep
+__pycache__
+.pytest_cache
